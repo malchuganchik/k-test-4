@@ -1,9 +1,8 @@
-
 .cart__item-img {
-    width: 300px;
-    height: 300px;
+    width: 120px;
+    height: 120px;
     object-fit: cover;
-    border-radius: 12px;
-    border: 3px solid #2E7D32;
+    border-radius: 8px;
     margin-right: 20px;
+    border: 2px solid #2E7D32; /* Green border as per mockup vibe */
 }
